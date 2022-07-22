@@ -1,0 +1,7 @@
+# Documentation IoT Off-Grid secure data collection from a machine-learning classification using UAV
+Documentation of the procedures and programs used during the development of the article: " IoT Off-Grid, secure data collection from a machine-learning classification using UAV"
+
+
+Abstract:
+
+IoT encompasses various objects, technologies, communication standards, sensors, actuators in powered environments, and networked communication. The concept adopted here, IoT Off-Grid, considers an environment without commercial electricity and commercial internet. Managing various utilities with IoT and collecting the relevant information from this environment is the purpose of this project. It uses machine learning to sort and select relevant data. This data is being collected safely using a Drone that travels through the Off-Grid stations. A systematic literature mapping is presented, identifying state of the art. The result is a software architecture proposal, with configurations in the Drone and Off-Grid stations that contemplate security during data collection from the IoT Off-Grid environment. The results are also presented with different selection algorithms used in machine learning and final execution in the prototype.
